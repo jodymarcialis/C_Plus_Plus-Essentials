@@ -21,7 +21,7 @@ Then, a list of time complexity will be displayed, going from the best to worst,
 
 ## Graphs
 [TO BE ANNOUNCED] <br>
-A file that will contain different ways to use graphs with lists, alongside with different traversal algorithms (some well known/efficient, some less)
+A file that will contain different ways to use graphs with arrays and matrix, alongside with different traversal algorithms (some well known/efficient, some less)
 
 
 # How to compile and execute:
