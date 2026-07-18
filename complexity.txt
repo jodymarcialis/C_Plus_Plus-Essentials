@@ -1,0 +1,10 @@
+• Complexité "Grand O" allant du plus efficace au moins efficace:
+
+O(1)
+O(log n)
+O(n)
+O(n log n)
+O(n²)
+O(n³)
+O(2n)
+O(n!)
