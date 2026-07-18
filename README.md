@@ -12,7 +12,7 @@ While using these, you can also learn where they can be used for in more complex
 
 ## Sorting algorithms
 
-A file that contains all of the sorting algorithms I saw during my Data Structure & Algorithms class.
+A file that contains all of the sorting algorithms I saw during my Data Structure & Algorithms class, that you can also find on the internet.
 After you executed the file, you are asked to enter an input among many options displayed on the terminal. 
 The option you enter will apply the corresponding algorithm on the array, and then display the sorted algorithm.
 After the entered algorithm has been used, its time complexity, and process of sorting the array are displayed.
